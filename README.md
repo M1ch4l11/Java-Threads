@@ -1,4 +1,4 @@
-# Vlakna
+# Threads
 You can see 3 Threads:
 
 1, Processing the Time. 
